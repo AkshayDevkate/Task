@@ -1,2 +1,4 @@
 # Task
 Advanta task
+
+[Output]()
